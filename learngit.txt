@@ -1,4 +1,9 @@
 first write
 dev add first
+<<<<<<< HEAD
+dev add second
 master first add
+=======
+dev add second
+>>>>>>> dev
 
