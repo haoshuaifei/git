@@ -6,6 +6,7 @@ i am two
 <<<<<<< HEAD
 reflict
 hsf
+123
 =======
 reflict
 >>>>>>> feature1
