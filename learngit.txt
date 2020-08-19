@@ -6,4 +6,4 @@ master first add
 =======
 dev add second
 >>>>>>> dev
-
+master wirte
